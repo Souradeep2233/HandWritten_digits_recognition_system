@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Souradeep2233
 - 👀 I’m interested in Machine Learning,Deep Learning and Neural Networks.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++,python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
